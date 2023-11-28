@@ -1,0 +1,19 @@
+.blue-border {
+    border: 5px blue dashed;
+}
+
+.green-border {
+    border: 5px green solid;
+}
+
+.red-border {
+    border: 5px red solid;
+}
+
+.gray-border {
+    border: 5px gray solid;
+}
+
+.orange-border {
+    border: 5px orange solid;
+}
